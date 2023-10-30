@@ -1,0 +1,4 @@
+rht-labs-core
+rht-labs-dle
+flake8-black
+pytest
