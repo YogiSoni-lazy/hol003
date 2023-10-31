@@ -5,6 +5,6 @@ pip install rht-labs-hol003==9.0.2.dev11 --extra-index-url https://pypi.apps.too
 lab select hol003
 lab --version
 source ~/.venv/labs/bin/activate
-cd .venv/labs/lib/python3.6/site-packages/hol003/
+cd .venv/labs/lib/python3.9/site-packages/hol003/
 #git pull https://github.com/YogiSoni-lazy/hol003.git
 #git clone https://YogiSoni-lazy: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@github.com/YogiSoni-lazy/hol003.git
